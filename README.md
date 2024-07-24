@@ -1,4 +1,4 @@
-### Connectly - A Chat App Front-End and Back-End using Flutter, SocketIo, and NodeJS. (Limited code)
+### Connectly - A Chat App Front-End and Back-End using Flutter, SocketIo
 
 
 
